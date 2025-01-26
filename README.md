@@ -29,7 +29,12 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   
 </p>
 
-### 👯 I’m looking to collaborate on: Open-source data science projects, innovative Machine Learning (ML) initiatives, and cutting-edge Natural Language Processing (NLP) applications. I’m particularly excited about working on:
+### 👯 I’m looking to collaborate on: 
+Open-source data science projects
+innovative Machine Learning (ML) initiatives
+cutting-edge Natural Language Processing (NLP) applications. 
+
+I’m particularly excited about working on:
 
 - **Scalable ML Models:** Predictive models, classification systems, and recommendation engines.
 - **NLP Applications:** Sentiment analysis, chatbots, and language translation systems.
