@@ -6,12 +6,11 @@
 
 I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. 
 
-I’m a huge fan of:
-- <img src="images/Statistics_icon.svg" width="40" height="40"> **Statistics**,
-- <img src="images/Scikit-learn_logo.svg" width="40" height="40"> **Machine Learning**,
-- <img src="images/Python-logo-notext.svg" width="40" height="40"> **Python**,
-- <img src="images/R_logo.svg" width="40" height="40"> **R**,
-- <img src="images/SQL_logo_2019.svg" width="40" height="40"> **SQL**.
+🚀 **Tech Stack**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg" width="50" height="50">
+
 
 
 - 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
