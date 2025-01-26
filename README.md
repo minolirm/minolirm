@@ -16,7 +16,7 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="80" height = "40" >
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="50" height = "50" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height = "50" >
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" width="80" height = "80" >
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" width="50" height = "50" >
   
 </p>
 
@@ -24,7 +24,7 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="80" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100" height="90">
 
   
 </p>
