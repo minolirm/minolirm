@@ -58,8 +58,10 @@ I’m particularly excited about working on:
 
 When I'm not building predictive models or analyzing data, you’ll find me experimenting with new recipes 🍳, enjoying nature 🏞️, coloring pictures 🎨 or spending time with my husband 💕
 
-<img src="https://github.com/user-attachments/assets/99f4e735-7297-4911-a2f0-cb13b2a81304" width="150" height="120"> 
-<img src="https://github.com/user-attachments/assets/7fa5f2c7-a0e8-4cb0-b1c6-82abd2a833d7" width="150" height="120">
+<p align = "center">
+  <img src="https://github.com/user-attachments/assets/99f4e735-7297-4911-a2f0-cb13b2a81304" width="150" height="120"> 
+  <img src="https://github.com/user-attachments/assets/7fa5f2c7-a0e8-4cb0-b1c6-82abd2a833d7" width="150" height="120"
+</p>
 
 
 
