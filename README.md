@@ -9,11 +9,11 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
 ### 🚀 I'm a huge fan of:
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50" style="display: inline-block;">
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50" style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" height="50" style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="50" height="50" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="50">
 </p>
 
 
