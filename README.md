@@ -1,6 +1,6 @@
 ## Hi there 👋, My Name is Minoli Munasinghe
 
-##🙋‍♂️ About me
+## 🙋‍♂️ About me
 
 ![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
