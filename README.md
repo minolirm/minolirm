@@ -68,6 +68,7 @@ When I'm not building predictive models or analyzing data, you’ll find me expe
 
 
 ### 🛠️ Tools & Technologies:
+
 -Programming Languages: Python 🐍, R 📊, SQL 💾
 -Libraries/Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, NLTK, BERT, GPT, Scipy
 -Visualization: Tableau 📊, Power BI 📈, Matplotlib, Seaborn
