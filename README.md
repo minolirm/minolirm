@@ -12,7 +12,8 @@ I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R*
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50">
-  <img src="https://www.google.com/imgres?q=mysql%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Flabs%2F8%2F8e%2FMysql_logo.png&imgrefurl=https%3A%2F%2Fwikitech.wikimedia.org%2Fwiki%2FFile%3AMysql_logo.png&docid=PWwMkXOYcRUycM&tbnid=g2ignkTaYy4FAM&vet=12ahUKEwie8ujUhpSLAxUDGTQIHdzONoUQM3oECFAQAA..i&w=391&h=202&hcb=2&ved=2ahUKEwie8ujUhpSLAxUDGTQIHdzONoUQM3oECFAQAA" width="50" height="50">
+  <img src="![image](https://github.com/user-attachments/assets/de0cad60-d8d8-43fe-957b-3e15c133b273)
+" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TensorFlow_Logo.svg" width="50" height="50">
 </p>
 
