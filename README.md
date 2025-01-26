@@ -2,7 +2,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
 
-- 💻 I'm a huge fan of Statistics, Machine Learning, and coding in Python, R, SQL.
+I’m a huge fan of 
+- ![Statistics](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Statistics_icon.svg/800px-Statistics_icon.svg.png) **Statistics**, 
+- ![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Scikit-learn_logo.svg/800px-Scikit-learn_logo.svg.png) **Machine Learning**, 
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**, 
+- ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png) **R**, 
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg) **SQL**.
+
 - 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
 - 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative Machine Learning and Natural Language projects.
