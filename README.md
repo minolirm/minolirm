@@ -4,7 +4,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
-I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
+I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. Right now, I’m teaching  ![image](https://github.com/user-attachments/assets/3424ae19-7fc0-4080-8066-303f4686a5e1)
+Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
 
 ### 🚀 Tech Stack:
 
