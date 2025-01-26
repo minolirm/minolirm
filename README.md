@@ -29,18 +29,18 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   
 </p>
 
-<p align="center"> Open-source data science projects, innovative Machine Learning (ML) initiatives, and cutting-edge Natural Language Processing (NLP) applications. I’m particularly interested in tackling challenges related to: </p>
-Building Scalable Machine Learning Models: Whether it's predicting future trends, improving classification systems, or creating recommendation engines, I’m eager to apply machine learning in real-world scenarios.
+### 👯 I’m looking to collaborate on:
 
-Natural Language Understanding (NLU) and Generation (NLG): Working on projects that focus on enhancing the interaction between machines and human language. This includes developing sophisticated chatbots, sentiment analysis tools, or language translation systems.
+<p align="center">
+Open-source data science projects, innovative Machine Learning (ML) initiatives, and cutting-edge Natural Language Processing (NLP) applications. I’m particularly excited about working on:
+</p>
 
-Data Visualization and Exploration: Helping teams turn complex data into intuitive, actionable insights with the use of interactive dashboards, advanced plotting libraries, and storytelling through data.
-
-Automating Data Science Pipelines: Leveraging tools like AutoML, MLOps, and cloud services to automate data preprocessing, model training, evaluation, and deployment. The goal is to enhance efficiency and reproducibility.
-
-Exploring Ethical AI & Fairness: Collaborating on projects that focus on the ethical implications of AI and machine learning, ensuring that algorithms are transparent, fair, and inclusive.
-
-Collaborative Research in AI and Data Science: Engaging in research that explores new methodologies in deep learning, reinforcement learning, or applying machine learning to novel fields like healthcare, climate modeling, and financial forecasting.
+- **Scalable ML Models:** Predictive models, classification systems, and recommendation engines.
+- **NLP Applications:** Sentiment analysis, chatbots, and language translation systems.
+- **Data Visualization:** Transforming data into actionable insights through interactive dashboards and advanced visualizations.
+- **Automating Data Science Pipelines:** Using AutoML, MLOps, and cloud services for efficient workflows.
+- **Ethical AI & Fairness:** Ensuring transparent, fair, and inclusive machine learning models.
+- **AI Research & Innovation:** Exploring novel AI methodologies and applying them to fields like healthcare, finance, and climate modeling.
 
 
 - 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
