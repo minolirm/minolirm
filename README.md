@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
-I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. 
+I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
 
 ### 🚀 Tech Stack:
 
@@ -19,7 +19,7 @@ I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R*
 
 
 
-- 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
+- 🔭 
 - 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative Machine Learning and Natural Language projects.
 - 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
