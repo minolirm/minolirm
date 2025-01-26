@@ -1,4 +1,4 @@
-## Hi there 👋, My Name is Minoli Munasinghe
+## Hi there, welcome to my GitHub! 👋
 
 ## 🙋‍♂️ About me
 
