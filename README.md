@@ -6,7 +6,7 @@
 
 I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science** 📚👨‍🏫💻. Right now, I’m teaching  Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
 
-### 🚀 Tech Stack:
+### 🚀 I'm a huge fan of:
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
