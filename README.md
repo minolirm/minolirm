@@ -16,7 +16,8 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="80" height = "40" >
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="50" height = "50" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height = "50" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="50" height = "50" >
+  <img src="![image](https://github.com/user-attachments/assets/61658c3a-0981-4679-aff2-00626280570f)
+" width="50" height = "50" >
 
  
   
