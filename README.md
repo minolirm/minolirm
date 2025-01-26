@@ -37,7 +37,7 @@ Data visualization challenges or storytelling with data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Minoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
+![Minoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minolirm&show_icons=true&hide_title=true)
 
 
 <!--
