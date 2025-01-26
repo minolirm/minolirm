@@ -12,7 +12,7 @@ I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R*
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvictorycto.com%2Fevaluating-mongodb-atlas-vector-search-a-comprehensive-analysis%2F&psig=AOvVaw0lDjLLKw-6qmqt6PT109FY&ust=1738004034533000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiBx--HlIsDFQAAAAAdAAAAABAR" width="50" height="50">
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/8/87/MongoDB-Logo.svg" width="50" height="50">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TensorFlow_Logo.svg" width="50" height="50">
 </p>
