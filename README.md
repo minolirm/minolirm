@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative machine learning projects.
 - 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
-- 📫 How to reach me: LinkedIn | Email
+- 📫 How to reach me: 
+- LinkedIn: [Minoli Munasinghe](https://www.linkedin.com/in/minolimunasinghe)
+- Email: [minoli.munasinghe@gmail.com](mailto:minoli.munasinghe@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not building predictive models or analyzing data, you’ll find me experimenting with new recipes 🍳, enjoying nature 🏞️, or spending time with my husband 💕
 
