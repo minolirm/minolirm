@@ -1,6 +1,7 @@
 ## Hi there 👋, My Name is Minoli Munasinghe
 
 
+- 💻 I'm a huge fan of Statistics, Machine Learning, and programming in Python, R, SQL
 - 🔭 I’m currently working as an Instructor in Machine Learning for the Post-Baccalaureate in Applied Data Science program, guiding students through the practical and theoretical aspects of building intelligent systems.
 - 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative machine learning projects.
