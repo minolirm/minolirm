@@ -1,4 +1,5 @@
 ## Hi there 👋, My Name is Minoli Munasinghe
+![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
 
 - 💻 I'm a huge fan of Statistics, Machine Learning, and coding in Python, R, SQL.
