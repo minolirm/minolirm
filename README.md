@@ -18,16 +18,12 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height = "50" >
   <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" width="50" height = "50" >
   
-
- 
-  
 </p>
 
+### 🌱 I’m currently learning:
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50">
 
-
-
-- 🔭 
-- 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
+- cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative Machine Learning and Natural Language projects.
 - 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minolimunasinghe) | [Email](mailto:minolimunasinghe@outlook.com)
