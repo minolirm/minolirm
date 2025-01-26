@@ -6,10 +6,16 @@
 
 I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. 
 
-🚀 **Tech Stack**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg" width="50" height="50">
+### 🚀 Tech Stack:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/JavaScript-logo.png" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TensorFlow_Logo.svg" width="50" height="50">
+</p>
+
 
 
 
