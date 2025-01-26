@@ -3,11 +3,11 @@
 
 
 I’m a huge fan of:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Statistics_icon.svg/800px-Statistics_icon.svg.png" width="40" height="40"> **Statistics**,
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Scikit-learn_logo.svg/800px-Scikit-learn_logo.svg.png" width="40" height="40"> **Machine Learning**,
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"> **Python**,
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" width="40" height="40"> **R**,
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg" width="40" height="40"> **SQL**.
+- <img src="images/Statistics_icon.svg" width="40" height="40"> **Statistics**,
+- <img src="images/Scikit-learn_logo.svg" width="40" height="40"> **Machine Learning**,
+- <img src="images/Python-logo-notext.svg" width="40" height="40"> **Python**,
+- <img src="images/R_logo.svg" width="40" height="40"> **R**,
+- <img src="images/SQL_logo_2019.svg" width="40" height="40"> **SQL**.
 
 
 - 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
