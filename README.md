@@ -11,7 +11,7 @@ I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R*
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg" width="50" height="50">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2019.svg](https://www.google.com/imgres?q=sql%20logo&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F653%2F226%2Fpng-clipart-my-sql-logo-mysql-logo-text-icons-logos-emojis-tech-companies.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-wgydq&docid=2T6nZFPpxnvqyM&tbnid=RWJwePJ5s6x1zM&vet=12ahUKEwi9p6S1hJSLAxWJOTQIHVT7AEoQM3oFCIIBEAA..i&w=900&h=465&hcb=2&ved=2ahUKEwi9p6S1hJSLAxWJOTQIHVT7AEoQM3oFCIIBEAA)" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/JavaScript-logo.png" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TensorFlow_Logo.svg" width="50" height="50">
 </p>
