@@ -28,8 +28,21 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
 
   
 </p>
-- cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
-- 👯 I’m looking to collaborate on open-source data science projects, and innovative Machine Learning and Natural Language projects.
+
+<p align="center"> Open-source data science projects, innovative Machine Learning (ML) initiatives, and cutting-edge Natural Language Processing (NLP) applications. I’m particularly interested in tackling challenges related to: </p>
+Building Scalable Machine Learning Models: Whether it's predicting future trends, improving classification systems, or creating recommendation engines, I’m eager to apply machine learning in real-world scenarios.
+
+Natural Language Understanding (NLU) and Generation (NLG): Working on projects that focus on enhancing the interaction between machines and human language. This includes developing sophisticated chatbots, sentiment analysis tools, or language translation systems.
+
+Data Visualization and Exploration: Helping teams turn complex data into intuitive, actionable insights with the use of interactive dashboards, advanced plotting libraries, and storytelling through data.
+
+Automating Data Science Pipelines: Leveraging tools like AutoML, MLOps, and cloud services to automate data preprocessing, model training, evaluation, and deployment. The goal is to enhance efficiency and reproducibility.
+
+Exploring Ethical AI & Fairness: Collaborating on projects that focus on the ethical implications of AI and machine learning, ensuring that algorithms are transparent, fair, and inclusive.
+
+Collaborative Research in AI and Data Science: Engaging in research that explores new methodologies in deep learning, reinforcement learning, or applying machine learning to novel fields like healthcare, climate modeling, and financial forecasting.
+
+
 - 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minolimunasinghe) | [Email](mailto:minolimunasinghe@outlook.com)
 - 😄 Pronouns: She/Her
