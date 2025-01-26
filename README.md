@@ -34,6 +34,9 @@ Database Systems: MySQL, MongoDB, RDBMS
 Open-source data science libraries or projects.
 Advanced statistical modeling or machine learning algorithms.
 Data visualization challenges or storytelling with data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 <!--
 **minolirm/minolirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
