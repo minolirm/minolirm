@@ -1,11 +1,11 @@
 ## Hi there 👋, My Name is Minoli Munasinghe
 
 
-- 💻 I'm a huge fan of Statistics, Machine Learning, and coding in Python, R, SQL
-- 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada
+- 💻 I'm a huge fan of Statistics, Machine Learning, and coding in Python, R, SQL.
+- 🔭 Right now, I’m teaching Machine Learning to Post-Bacc students in Applied Data Science, Thompson Rivers University, British Columbia, Canada.
 - 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
 - 👯 I’m looking to collaborate on open-source data science projects, and innovative machine learning projects.
-- 💬 Ask me about statistical modeling, machine learning, deep learning, natural language processing
+- 💬 Ask me about Statistical Modeling, Machine Learning, Deep Learning, Natural Language Processing(NLP).
 - 📫 How to reach me: LinkedIn | Email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not building predictive models or analyzing data, you’ll find me experimenting with new recipes 🍳, enjoying nature 🏞️, or spending time with my husband 💕
