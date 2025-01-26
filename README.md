@@ -12,10 +12,8 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" height="50">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/TensorFlow_logo.svg" width="50" height="50" alt="TensorFlow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Pandas_logo.svg" width="50" height="50" alt="Pandas">
+  <img src="https://commons.wikimedia.org/wiki/Category:MySQL#/media/File:MySQL_textlogo.svg/2" width="50" height="50" alt="TensorFlow">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TensorFlow_Logo.svg" width="50" height="50">
 </p>
 
 
