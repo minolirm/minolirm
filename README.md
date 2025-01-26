@@ -21,6 +21,7 @@ I’m a huge fan of:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minolimunasinghe) | [Email](mailto:minolimunasinghe@outlook.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not building predictive models or analyzing data, you’ll find me experimenting with new recipes 🍳, enjoying nature 🏞️, or spending time with my husband 💕
+![Fun GIF](https://media.giphy.com/media/3o6Zt5JpC7FznnGg6A/giphy.gif)
 
 
 🛠️ Tools & Technologies
