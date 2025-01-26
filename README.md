@@ -67,17 +67,19 @@ When I'm not building predictive models or analyzing data, you’ll find me expe
 
 
 
-🛠️ Tools & Technologies
-Programming Languages: Python 🐍, R 📊, SQL 💾
-Libraries/Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
-Visualization: Tableau 📊, Power BI 📈, Matplotlib, Seaborn
-Cloud Platforms: AWS ☁️, Google Cloud, Azure
-Database Systems: MySQL, MongoDB, RDBMS
+### 🛠️ Tools & Technologies:
+-Programming Languages: Python 🐍, R 📊, SQL 💾
+-Libraries/Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, NLTK, BERT, GPT, Scipy
+-Visualization: Tableau 📊, Power BI 📈, Matplotlib, Seaborn
+-Cloud Platforms: AWS ☁️, Google Cloud, Azure
+-Database Systems: MySQL, MongoDB, RDBMS
+-Version Controls: Git, BitBucket, TFS
 
-👩‍💻 Let's Collaborate!
-Open-source data science libraries or projects.
-Advanced statistical modeling or machine learning algorithms.
-Data visualization challenges or storytelling with data
+### 👩‍💻 Let's Collaborate!
+
+-Open-source data science libraries or projects.
+-Advanced statistical modeling or machine learning algorithms.
+-Data visualization challenges or storytelling with data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
