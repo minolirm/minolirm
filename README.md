@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋, My Name is Minoli Munasinghe
 
-🙋‍♂️ About me
+##🙋‍♂️ About me
 
 ![Profile views](https://komarev.com/ghpvc/?username=minolirm)
 
-I'm **Minoli Munasinghe**, a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. 
+I'm a passionate **Data Science Post Graduate** with a love for **Python**, **R**, and everything **Data Science**. 
 
 I’m a huge fan of:
 - <img src="images/Statistics_icon.svg" width="40" height="40"> **Statistics**,
