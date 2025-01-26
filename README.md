@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hi there 👋, My Name is Minoli Munasinghe
 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning cloud-based machine learning deployments (AWS, Azure) and advanced techniques in deep learning.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+
+
+🛠️ Tools & Technologies
+Programming Languages: Python 🐍, R 📊, SQL 💾
+Libraries/Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
+Visualization: Tableau 📊, Power BI 📈, Matplotlib, Seaborn
+Cloud Platforms: AWS ☁️, Google Cloud, Azure
+Database Systems: MySQL, MongoDB, RDBMS
+
+👩‍💻 Let's Collaborate!
+Open-source data science libraries or projects.
+Advanced statistical modeling or machine learning algorithms.
+Data visualization challenges or storytelling with data
 <!--
 **minolirm/minolirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
