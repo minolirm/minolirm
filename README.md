@@ -45,7 +45,12 @@ I’m particularly excited about working on:
 
 
 ### 💬 Ask me about:
-Statistical Modeling, Hypothesis Testing, Data Analysis, Machine Learning, Deep Learning, and Natural Language Processing(NLP).
+ - Statistical Modeling
+ - Hypothesis Testing
+ - Data Analysis
+ - Machine Learning
+ - Deep Learning
+ - Natural Language Processing(NLP).
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minolimunasinghe) | [Email](mailto:minolimunasinghe@outlook.com)
 ### 😄 Pronouns: She/Her
