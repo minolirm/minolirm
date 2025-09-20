@@ -22,9 +22,8 @@ I’m a Data Science Post Graduate with strong expertise in Statistics, Machine 
 
 ### 🌱 I’m currently learning:
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100" height="50">
+
 
   
 </p>
