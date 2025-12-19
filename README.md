@@ -6,7 +6,7 @@
 
 I’m a Data Science Post Graduate with strong expertise in Statistics, Machine Learning, Deep Learning, and Artificial Intelligence. I hold a Master’s degree in Data Science from Thompson Rivers University and have over 4 years of combined industry and research experience. My work focuses on data analysis, statistical modeling, machine learning, and building end-to-end data solutions that support real-world decision-making.
 
-I enjoy working across the full data lifecycle — from data cleaning and exploration to modeling, visualization, and communication of insights. I have experience using Python, R, SQL, Power BI, Tableau, and Excel across academic, industry, and applied research settings.
+I enjoy working across the full data lifecycle from data cleaning and exploration to modeling, visualization, and communication of insights. I have experience using Python, R, SQL, Power BI, Tableau, and Excel across academic, industry, and applied research settings.
 
 I’m passionate about continuous learning, solving practical problems with data, and building projects that are clear, reproducible, and impactful. 📚👨‍🏫💻. 
 
